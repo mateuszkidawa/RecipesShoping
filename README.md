@@ -14,12 +14,12 @@ Recipe Book & Shoping List
  * Root
     * Header
     * Shopping List
-        * Add
-        * Edit
+        * Shopping List Edit
+        * Ingredient
 
     * Recipe List
-        * Item
-        * Detail
+        * Recipe Item
+        * Recipe Detail
     
 ## Models:
  * Ingredient
