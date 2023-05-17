@@ -1,5 +1,7 @@
 # About Angular Project
 
+## Screenshot - application preview
+<img src=".\src\assets\screenshot.jpg" alt="Screenshot-Flight-Searching">
 ## Application:
 Recipe Book & Shoping List
 
